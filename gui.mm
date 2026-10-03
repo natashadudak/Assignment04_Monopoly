@@ -1,3 +1,20 @@
+/*
+Name:Natasha Dudak
+Course:CS 210
+Assignment:Assignment 04: Circular Linked List Monopoly
+Professor:Dominic Dabish
+
+Another source of information:
+•Youtube video:https://www.youtube.com/watch?v=N6dOwBde7-M
+•Youtube video:https://www.youtube.com/watch?v=BBpAmxU_NQo
+•Youtube video:https://www.youtube.com/watch?v=HMkdlu5sP4A&list=PLBlnK6fEyqRjW4jK-CbshJuX20nc_3IaN
+•Youtube video:https://www.youtube.com/watch?v=LyuuqCVkP5I&list=PLGjplNEQ1it-OKRcYlCEDpTiIB1YOcvn6
+•Zbook's book
+•Chatgpt: Portuguese-to-English translation, C++ questions, help with the code bug and code review
+
+Date last modified: 10-02-2026
+*/
+
 #import <Cocoa/Cocoa.h>
 
 // Country information
